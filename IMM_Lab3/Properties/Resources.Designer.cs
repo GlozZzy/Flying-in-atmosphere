@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace IMM_Lab3.Properties {
+namespace Flyght.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace IMM_Lab3.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("IMM_Lab3.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Flyght.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -57,16 +57,6 @@ namespace IMM_Lab3.Properties {
             }
             set {
                 resourceCulture = value;
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap kisspng_computer_icons_clip_art_restart_5ae7eebb304f95_3559772615251493711979 {
-            get {
-                object obj = ResourceManager.GetObject("kisspng-computer-icons-clip-art-restart-5ae7eebb304f95.3559772615251493711979", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

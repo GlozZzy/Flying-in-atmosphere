@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace IMM_Lab3
+namespace Flyght
 {
     static class Program
     {

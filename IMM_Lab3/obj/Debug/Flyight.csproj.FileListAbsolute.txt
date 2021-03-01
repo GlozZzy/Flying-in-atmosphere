@@ -1,0 +1,9 @@
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\bin\Debug\Flyght.exe.config
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\bin\Debug\Flyght.exe
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\bin\Debug\Flyght.pdb
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\Flyght.Form1.resources
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\Flyght.Properties.Resources.resources
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\Flyight.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\Flyight.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\Flyght.exe
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\Flyght.pdb

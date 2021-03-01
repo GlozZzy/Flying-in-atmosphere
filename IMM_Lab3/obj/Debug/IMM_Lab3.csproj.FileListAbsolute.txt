@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.Properties.Resources.resources
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.csproj.GenerateResource.cache
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.Form1.resources
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\bin\Debug\IMM_Lab3.exe.config
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\bin\Debug\IMM_Lab3.exe
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\bin\Debug\IMM_Lab3.pdb
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.exe
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.pdb
+C:\Users\Roman\source\repos\IMM_Lab3\IMM_Lab3\obj\Debug\IMM_Lab3.g.resources

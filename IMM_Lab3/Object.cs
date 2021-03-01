@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IMM_Lab3
+namespace Flyght
 {
 
     public class Object

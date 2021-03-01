@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace IMM_Lab3
+namespace Flyght
 {
     public partial class Form1 : Form
     {
